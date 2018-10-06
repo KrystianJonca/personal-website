@@ -20,7 +20,6 @@ export default {
     text-align: center;
   }
   p{
-    color: #E0E0E0;
     margin-top: 0;
     text-align: center;
   }

@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <p>
-      Hi! My name is Krystian 'Wionek' Jonca. I am 15 years old developer from Poland.
+      Hi, my name is Krystian 'Wionek' Jonca. I am 15 years old developer from Poland.
       I started programming when I was 13 now I am working on my open-source projects in Node.js.
       You can view some fo them in my <a target="_blank" href="https://www.gitshowcase.com/krystianjonca" rel="noopener">
       <strong>Portfolio</strong>💪</a>

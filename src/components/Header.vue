@@ -1,13 +1,13 @@
 <template>
-  <div id="app">
-  </div>
+
 </template>
 
 <script>
 export default {
-  name: 'app'
+  name: 'Header'
 }
 </script>
 
-<style lang="less">
+<style lang="less" scoped>
+
 </style>

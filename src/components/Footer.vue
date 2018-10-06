@@ -4,7 +4,7 @@
       <a href="https://www.gitshowcase.com/krystianjonca" target="_blank" rel="noopener"><strong>Portfolio</strong></a>
       <a href="https://github.com/KrystianJonca" target="_blank" rel="noopener"><strong>Github</strong></a>
       <a href="" target="_blank" rel="noopener"><strong>Twitter</strong></a>
-      <a href="https://www.buymeacoffee.com/wionek" target="_blank" rel="noopener"><strong>BMAC</strong></a>
+      <a href="mailto:krystianjonca43@gmail.com" target="_blank" rel="noopener"><strong>Mail</strong></a>
     </div>
   </div>
 </template>

@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>Krystian 'Wionek' Jońca</h1>
+    <h1>💻Krystian 'Wionek' Jońca</h1>
     <p>Node.js developer from Poland</p>
   </div>
 </template>

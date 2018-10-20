@@ -3,11 +3,10 @@
     <p>
       Hi, my name is Krystian 'Wionek' Jonca. I am 15 years old developer from Poland.
       I started programming when I was 13 now I am working on my open-source projects in Node.js.
-      You can view some of them in my <a target="_blank" href="https://www.gitshowcase.com/krystianjonca" rel="noopener">
-      <strong>Portfolio</strong>💪</a>
     </p>
     <p>
-      My most popular npm modules are <a target="__blank" href="https://www.npmjs.com/package/pizza-maker">🍕<strong>Pizza Maker</strong></a> and <a target="__blank" href="https://www.npmjs.com/package/pc-performance">📈<strong>PC Performance</strong></a>
+      My most popular npm modules are <a target="__blank" href="https://www.npmjs.com/package/pizza-maker">🍕<strong>Pizza Maker</strong></a> and <a target="__blank" href="https://www.npmjs.com/package/pc-performance">📈<strong>PC Performance</strong>. I also have other projects witch you can see in my <a target="_blank" href="https://www.gitshowcase.com/krystianjonca" rel="noopener">
+      <strong>Portfolio</strong>💪</a></a>
     </p>
     <p>
       If you heard about my modules and you like them, please consider <a target="__blank" href="https://www.buymeacoffee.com/wionek">☕️<strong>Buying Me a Coffee</strong></a>. Your support will help me doing more open-source projects for you!

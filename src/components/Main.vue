@@ -6,7 +6,7 @@
     </p>
     <p>
       My most popular npm modules are <a target="__blank" href="https://www.npmjs.com/package/pizza-maker">🍕<strong>Pizza Maker</strong></a> and <a target="__blank" href="https://www.npmjs.com/package/pc-performance">📈<strong>PC Performance</strong>. I also have other projects witch you can see in my <a target="_blank" href="https://www.gitshowcase.com/krystianjonca" rel="noopener">
-      <strong>Portfolio</strong>💪</a></a>
+      💪<strong>Portfolio</strong></a></a>
     </p>
     <p>
       If you heard about my modules and you like them, please consider <a target="__blank" href="https://www.buymeacoffee.com/wionek">☕️<strong>Buying Me a Coffee</strong></a>. Your support will help me doing more open-source projects for you!

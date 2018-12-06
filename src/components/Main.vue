@@ -5,7 +5,7 @@
       I started programming when I was 13 now I am working on my open-source projects in Node.js/JavaScript.
     </p>
     <p>
-      My most popular projects are <a target="__blank" href="https://chrome.google.com/webstore/detail/pewdiepie-vs-t-series/leliihmdckgmccamkmgkiikjecbedapi?hl=pl">🎥<strong>PewDiePie vs T-series Sub Counter Chrome extension</strong></a> <br/><a target="__blank" href="https://www.npmjs.com/package/pizza-maker">🍕<strong>Pizza Maker</strong></a> and <a target="__blank" href="https://www.npmjs.com/package/pc-performance">📈<strong>PC Performance</strong></a>. I also have other projects witch you can see in my <a target="_blank" href="https://www.gitshowcase.com/krystianjonca" rel="noopener">
+      My most popular projects are <a target="__blank" href="https://chrome.google.com/webstore/detail/pewdiepie-vs-t-series/leliihmdckgmccamkmgkiikjecbedapi">🎥<strong>PewDiePie vs T-series Sub Counter Chrome extension</strong></a> <br/><a target="__blank" href="https://www.npmjs.com/package/pizza-maker">🍕<strong>Pizza Maker</strong></a> and <a target="__blank" href="https://www.npmjs.com/package/pc-performance">📈<strong>PC Performance</strong></a>. I also have other projects witch you can see in my <a target="_blank" href="https://www.gitshowcase.com/krystianjonca" rel="noopener">
       <strong>Portfolio</strong>💪</a>
     </p>
     <p>

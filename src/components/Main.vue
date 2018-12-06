@@ -9,7 +9,7 @@
       <strong>Portfolio</strong>💪</a>
     </p>
     <p>
-      If you heard about my projects and you like them, please consider <a target="__blank" href="https://www.buymeacoffee.com/wionek">☕️<strong>Buying Me a Coffee</strong></a>. Your support will help me doing more open-source projects for you!
+      If you heard about my projects and you like them, please consider donating me through <a target="__blank" href="https://www.paypal.me/zjonca">☕️<strong>Paypal.me</strong></a> or <a target="__blank" href="https://www.buymeacoffee.com/wionek">☕️<strong>Buy Me a Coffee</strong></a>. Your support will help me doing more open-source projects for you!
     </p>
     <div class="btn">
       <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/wionek"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Buy me a coffee</span></a>
